@@ -1,1 +1,1 @@
-# Artificial-Muscle-Robot-Control-Using-LLM-Assisted-Reinforcement-Learning
+# Artificial Muscle Robot Control Using LLM-Assisted Reinforcement Learning and Musculoskeletal Simulation
